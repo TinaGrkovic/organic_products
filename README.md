@@ -16,9 +16,7 @@ The final model utilizes classification algorithms and a random forest surrogate
 
 ---
 
-## 🌳 Decision Tree Visualization
-
-![Decision Tree](random_forest_surrogate_tree.pdf)
+![Decision Tree Visualization](random_forest_surrogate_tree.pdf)
 
 ---
 
